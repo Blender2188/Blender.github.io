@@ -7,9 +7,9 @@
 # server process.
 
 # Basic Site Settings
-locale                   : "en-US" #无
+locale                   : "en-US" 
 title                    : "我@的网页"
-title_separator          : "-" #
+title_separator          : "-" 
 name                     : &name "美羊羊嚼槟榔"
 description              : &description "personal description" #
 url                      :  https://blender2188.github.io/Blender.github.io/# the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
